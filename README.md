@@ -1,4 +1,4 @@
 These are verifications by [Bart Jacobs](https://distrinet.cs.kuleuven.be/people/bartj) of programs from the [cbench](https://github.com/cverified/cbench) benchmark
 using [VeriFast](https://github.com/verifast/verifast).
 
-To verify, just download and unzip the latest VeriFast nightly build for your platform from https://github.com/verifast/verifast (see the README.md for a link), run `bin/vfide fac1.c`, and press the Play toolbar button to verify.
+To verify, just download and unzip the latest VeriFast nightly build for your platform from https://github.com/verifast/verifast (see the README.md for a link), run `bin/vfide` on the source file, and press the Play toolbar button to verify.
